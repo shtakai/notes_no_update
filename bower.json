@@ -1,0 +1,20 @@
+{
+  "name": "pylot",
+  "homepage": "https://github.com/MikeHannon/pylot",
+  "authors": [
+    "Mike Hannon <mjhannon@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
